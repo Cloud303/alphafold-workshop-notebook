@@ -4,3 +4,4 @@ MDAnalysis
 py3Dmol
 biopandas
 plotly
+boto3
